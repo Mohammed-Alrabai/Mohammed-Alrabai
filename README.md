@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammed-Alrabai
-- 👀 I’m interested in Front End Developer
+- 👀 I’m interested in Mern Stack Developer
 - 🌱 I’m Graduated with a Bachelor's degree in Computer
 - 💞️ I’m looking to collaborate on programmers community
 - 📫 How to reach me (https://www.linkedin.com/in/mohammad-alrabai-b527921b0)
