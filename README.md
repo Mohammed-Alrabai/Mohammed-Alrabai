@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alrabai</h1>
 <h3 align="center">I'm a MERN Stack Developer 🌟</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-alrabai" alt="mohammed-alrabai" /></a> </p>
-
 - 📫 How to reach me **m.alrabai4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-alrabai&show_icons=true&locale=en&layout=compact" alt="mohammed-alrabai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-alrabai&show_icons=true&locale=en" alt="mohammed-alrabai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-alrabai&" alt="mohammed-alrabai" /></p>
